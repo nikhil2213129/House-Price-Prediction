@@ -7,8 +7,6 @@ This project is aimed at predicting house prices based on various features such 
 - [Dataset](#dataset)
 - [Dependencies](#dependencies)
 - [Modeling Approach](#modeling-approach)
-- [Usage](#usage)
-- [Results](#results)
 - [Contributors](#contributors)
 
 ## Introduction
