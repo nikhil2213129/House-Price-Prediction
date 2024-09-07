@@ -33,7 +33,7 @@ The project requires the following Python libraries:
 - `seaborn`
 - `scikit-learn`
 
-##Modeling Approach
+## Modeling Approach
 The notebook covers the following steps:
 
 Data Preprocessing: Handle missing values, normalize/scale the data, and encode categorical variables.
@@ -45,5 +45,5 @@ Random Forest
 Gradient Boosting
 Model Evaluation: Use metrics like RMSE, R-squared, and cross-validation to evaluate the performance of the models.
 
-##Contributors
+## Contributors
 Nikhil Makam
