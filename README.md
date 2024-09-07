@@ -33,3 +33,17 @@ The project requires the following Python libraries:
 - `seaborn`
 - `scikit-learn`
 
+##Modeling Approach
+The notebook covers the following steps:
+
+Data Preprocessing: Handle missing values, normalize/scale the data, and encode categorical variables.
+Exploratory Data Analysis (EDA): Visualize correlations between features and the target variable.
+Feature Engineering: Create new features or select important features.
+Model Selection: Train and evaluate different machine learning models, such as:
+Linear Regression
+Random Forest
+Gradient Boosting
+Model Evaluation: Use metrics like RMSE, R-squared, and cross-validation to evaluate the performance of the models.
+
+##Contributors
+Nikhil Makam
